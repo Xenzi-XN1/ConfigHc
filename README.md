@@ -33,7 +33,7 @@ $ python run.py
 ### cara menggunakan ConfigHc?
 - Silahkan login terlebih dahulu menggunakan key, link key ada di dalam tools
 ![img](https://i.ibb.co/cC7KPK4/IMG-20230913-002608.jpg)
-- Jika sudah login silahkan ada pilih coding yang sama dengan kartu operator anda.
+- Jika sudah login silahkan ada pilih config yang sama dengan kartu operator anda.
 ![img](https://i.ibb.co/DpdzQTg/Screenshot-20230912-224303.jpg)
 - Selesai.
 
